@@ -7,6 +7,31 @@
       "src": "icon/96751_yandex.png",
       "sizes": "192x192",
       "type": "image/png"
+      "purpose":"maskable"
+    },
+    {
+      "src": "icon/96751_yandex.png",
+      "sizes": "192x192",
+      "type": "image/png"
+      "purpose":"maskable"
+    },
+    {
+      "src": "icon/96751_yandex.png",
+      "sizes": "192x192",
+      "type": "image/png"
+      "purpose":"maskable"
+    },
+    {
+      "src": "icon/96751_yandex.png",
+      "sizes": "192x192",
+      "type": "image/png"
+      "purpose":"maskable"
+    },
+    {
+      "src": "icon/96751_yandex.png",
+      "sizes": "192x192",
+      "type": "image/png"
+      "purpose":"maskable"
     }
   ],
   "name": "Awesome fox pictures",
