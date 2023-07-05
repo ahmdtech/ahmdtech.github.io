@@ -4,10 +4,16 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/96751_yandex.png",
-      "sizes": "192x192",
+      "src": "icon/189688_yandex.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "icon/189688_yandex.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "name": "Awesome fox pictures",
