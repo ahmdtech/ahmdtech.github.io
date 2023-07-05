@@ -11,7 +11,7 @@
     },
     {
       "src": "icon/189688_yandex.png",
-      "sizes": "192x192",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
